@@ -1,5 +1,4 @@
-Hi everyone 👋
-React / React Native Engineer
+I'm React / React Native Engineer👋
 
 
 ## 🛠 Tech
